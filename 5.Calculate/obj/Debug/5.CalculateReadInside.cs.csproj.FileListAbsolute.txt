@@ -1,0 +1,6 @@
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\6.Loops-Homework\5.Calculate\bin\Debug\5.Calculate.exe.config
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\6.Loops-Homework\5.Calculate\bin\Debug\5.Calculate.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\6.Loops-Homework\5.Calculate\bin\Debug\5.Calculate.pdb
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\6.Loops-Homework\5.Calculate\obj\Debug\5.CalculateReadInside.cs.csprojResolveAssemblyReference.cache
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\6.Loops-Homework\5.Calculate\obj\Debug\5.Calculate.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\6.Loops-Homework\5.Calculate\obj\Debug\5.Calculate.pdb

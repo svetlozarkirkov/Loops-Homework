@@ -1,0 +1,5 @@
+c:\users\sve\documents\visual studio 2013\Projects\6.Loops-Homework\6.CalcFactorialNdivFactorialK\bin\Debug\6.CalcFactorialNdivFactorialK.exe.config
+c:\users\sve\documents\visual studio 2013\Projects\6.Loops-Homework\6.CalcFactorialNdivFactorialK\bin\Debug\6.CalcFactorialNdivFactorialK.exe
+c:\users\sve\documents\visual studio 2013\Projects\6.Loops-Homework\6.CalcFactorialNdivFactorialK\bin\Debug\6.CalcFactorialNdivFactorialK.pdb
+c:\users\sve\documents\visual studio 2013\Projects\6.Loops-Homework\6.CalcFactorialNdivFactorialK\obj\Debug\6.CalcFactorialNdivFactorialK.exe
+c:\users\sve\documents\visual studio 2013\Projects\6.Loops-Homework\6.CalcFactorialNdivFactorialK\obj\Debug\6.CalcFactorialNdivFactorialK.pdb

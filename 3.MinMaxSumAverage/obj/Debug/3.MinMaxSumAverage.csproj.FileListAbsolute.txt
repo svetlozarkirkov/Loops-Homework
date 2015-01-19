@@ -1,0 +1,5 @@
+c:\users\sve\documents\visual studio 2013\Projects\6.Loops-Homework\3.MinMaxSumAverage\bin\Debug\3.MinMaxSumAverage.exe.config
+c:\users\sve\documents\visual studio 2013\Projects\6.Loops-Homework\3.MinMaxSumAverage\bin\Debug\3.MinMaxSumAverage.exe
+c:\users\sve\documents\visual studio 2013\Projects\6.Loops-Homework\3.MinMaxSumAverage\bin\Debug\3.MinMaxSumAverage.pdb
+c:\users\sve\documents\visual studio 2013\Projects\6.Loops-Homework\3.MinMaxSumAverage\obj\Debug\3.MinMaxSumAverage.exe
+c:\users\sve\documents\visual studio 2013\Projects\6.Loops-Homework\3.MinMaxSumAverage\obj\Debug\3.MinMaxSumAverage.pdb

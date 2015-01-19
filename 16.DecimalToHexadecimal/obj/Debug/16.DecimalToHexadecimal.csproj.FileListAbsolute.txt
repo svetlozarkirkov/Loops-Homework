@@ -1,0 +1,5 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\16.DecimalToHexadecimal\bin\Debug\16.DecimalToHexadecimal.exe.config
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\6.Loops-Homework\16.DecimalToHexadecimal\bin\Debug\16.DecimalToHexadecimal.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\6.Loops-Homework\16.DecimalToHexadecimal\bin\Debug\16.DecimalToHexadecimal.pdb
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\6.Loops-Homework\16.DecimalToHexadecimal\obj\Debug\16.DecimalToHexadecimal.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\6.Loops-Homework\16.DecimalToHexadecimal\obj\Debug\16.DecimalToHexadecimal.pdb

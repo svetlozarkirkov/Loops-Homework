@@ -1,0 +1,5 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\21.OddEvenElements\bin\Debug\21.OddEvenElements.exe.config
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\6.Loops-Homework\21.OddEvenElements\bin\Debug\21.OddEvenElements.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\6.Loops-Homework\21.OddEvenElements\bin\Debug\21.OddEvenElements.pdb
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\6.Loops-Homework\21.OddEvenElements\obj\Debug\21.OddEvenElements.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\6.Loops-Homework\21.OddEvenElements\obj\Debug\21.OddEvenElements.pdb

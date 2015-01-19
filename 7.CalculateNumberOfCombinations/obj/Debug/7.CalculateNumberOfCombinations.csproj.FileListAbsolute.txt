@@ -1,0 +1,6 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\7.CalculateNumberOfCombinations\bin\Debug\7.CalculateNumberOfCombinations.exe.config
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\7.CalculateNumberOfCombinations\bin\Debug\7.CalculateNumberOfCombinations.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\7.CalculateNumberOfCombinations\bin\Debug\7.CalculateNumberOfCombinations.pdb
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\7.CalculateNumberOfCombinations\obj\Debug\7.CalculateNumberOfCombinations.csprojResolveAssemblyReference.cache
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\7.CalculateNumberOfCombinations\obj\Debug\7.CalculateNumberOfCombinations.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\7.CalculateNumberOfCombinations\obj\Debug\7.CalculateNumberOfCombinations.pdb

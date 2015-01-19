@@ -1,0 +1,5 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\18.TrailingZeroesInNFactorial\bin\Debug\18.TrailingZeroesInNFactorial.exe.config
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\18.TrailingZeroesInNFactorial\bin\Debug\18.TrailingZeroesInNFactorial.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\18.TrailingZeroesInNFactorial\bin\Debug\18.TrailingZeroesInNFactorial.pdb
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\18.TrailingZeroesInNFactorial\obj\Debug\18.TrailingZeroesInNFactorial.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\18.TrailingZeroesInNFactorial\obj\Debug\18.TrailingZeroesInNFactorial.pdb

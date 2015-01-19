@@ -1,0 +1,6 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\23.FiveSpecialLetters\bin\Debug\23.FiveSpecialLetters.exe.config
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\23.FiveSpecialLetters\bin\Debug\23.FiveSpecialLetters.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\23.FiveSpecialLetters\bin\Debug\23.FiveSpecialLetters.pdb
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\23.FiveSpecialLetters\obj\Debug\23.FiveSpecialLetters.csprojResolveAssemblyReference.cache
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\23.FiveSpecialLetters\obj\Debug\23.FiveSpecialLetters.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\23.FiveSpecialLetters\obj\Debug\23.FiveSpecialLetters.pdb

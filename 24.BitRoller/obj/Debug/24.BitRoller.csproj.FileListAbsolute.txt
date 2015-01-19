@@ -1,0 +1,6 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\24.BitRoller\bin\Debug\24.BitRoller.exe.config
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\24.BitRoller\bin\Debug\24.BitRoller.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\24.BitRoller\bin\Debug\24.BitRoller.pdb
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\24.BitRoller\obj\Debug\24.BitRoller.exe
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\24.BitRoller\obj\Debug\24.BitRoller.pdb
+C:\Users\Sve\documents\visual studio 2013\Projects\6.Loops-Homework\24.BitRoller\obj\Debug\24.BitRoller.csprojResolveAssemblyReference.cache
